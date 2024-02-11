@@ -1,9 +1,8 @@
 # SAL 603 Final Project: Injury Epidemiology 
-Research Question: Are athlete more at risk of suffering a non-contact soft tissue injury during preseaon compared to regular season? 
+Research Question: Are athletes more at risk of suffering a non-contact soft tissue injury during preseaon compared to regular season? 
 Compare injury rates across two time periods within a football season. 
 
 This project will visually desribe injury incidence and its weekly effect on a football team. 
-Injury rate = number of injuries / athlete exposure(AE)
 
 Injury Classifications 
 Injury classifications are defined based on mechanism of injury and type of injury suffered. 
@@ -18,6 +17,11 @@ Injury classifications are defined based on mechanism of injury and type of inju
 
 # This is my data file on injury classification
 'injury_classification = data/injurydata.csv'
+
+# Formulas 
+Injury rate = number of injuries / athlete exposure(AE)
+
+# Key Visualizations 
 
 Visualizations 
 	1) Line Graph Demonstrating weekly injury rates 
