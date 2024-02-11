@@ -1,5 +1,5 @@
 # SAL 603 Final Project: Injury Epidemiology 
-Research Question: Are athletes more at risk of suffering a non-contact soft tissue injury during preseaon compared to regular season? 
+Research Question: Are athletes more at risk of suffering a non-contact soft tissue injury during preseason compared to regular season? 
 Compare injury rates across two time periods within a football season. 
 
 This project will visually desribe injury incidence and its weekly effect on a football team. 
