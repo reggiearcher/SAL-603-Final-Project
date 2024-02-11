@@ -5,5 +5,3 @@
 'injury_classification = data/injurydata.csv' 
 # This is my data file on injury classification
 
-
- Kayla is my best friend :)
