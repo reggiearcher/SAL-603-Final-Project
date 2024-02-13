@@ -28,3 +28,4 @@ Visualizations
 	2) Injury Classification Bar Graph 
 	3) Time Loss Comparision By Player 
 
+	This project will be a collaboration between myself and Jason Leslie 
